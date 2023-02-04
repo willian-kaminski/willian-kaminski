@@ -1,6 +1,6 @@
 ### E aí galera 👋
 
-Eu sou Willian, Desenvolvedor Java na [CWI Software](https://cwi.com.br/), 
+Eu sou Willian Kaminski, desenvolvedor Java na [CWI Software](https://cwi.com.br/), 
 escrevo alguns artigos no [Medium](https://medium.com/@kswillian/).
 
 [![Medium: kswillian](https://img.shields.io/badge/-Medium-black?style=flat-square&logo=Medium&logoColor=white&link=https://nataniel-paiva.medium.com/https://medium.com/@kswillian/)](https://medium.com/@kswillian/)
