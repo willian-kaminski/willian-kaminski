@@ -1,7 +1,7 @@
 ### E aí galera 👋
 
 Eu sou Willian Kaminski, desenvolvedor Java na [CWI Software](https://cwi.com.br/), 
-escrevo alguns artigos no [Medium](https://medium.com/@kswillian/).
+escrevo alguns artigos no [Medium](https://medium.com/@willian-kaminski).
 
 [![Medium: willian-kaminski](https://img.shields.io/badge/-Medium-black?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@willian-kaminski)](https://medium.com/@willian-kaminski)
 [![Linkedin: willian-kaminski](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/willian-ks/)](https://www.linkedin.com/in/willian-ks/)
