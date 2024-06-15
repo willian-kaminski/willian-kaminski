@@ -3,8 +3,8 @@
 Eu sou Willian Kaminski, desenvolvedor Java na [CWI Software](https://cwi.com.br/), 
 escrevo alguns artigos no [Medium](https://medium.com/@kswillian/).
 
-[![Medium: kswillian](https://img.shields.io/badge/-Medium-black?style=flat-square&logo=Medium&logoColor=white&link=https://nataniel-paiva.medium.com/https://medium.com/@kswillian/)](https://medium.com/@willian-kaminski)
-[![Linkedin: natanielpaiva](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/willian-ks/)](https://www.linkedin.com/in/willian-ks/)
+[![Medium: willian-kaminski](https://img.shields.io/badge/-Medium-black?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@willian-kaminski)](https://medium.com/@willian-kaminski)
+[![Linkedin: willian-kaminski](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/willian-ks/)](https://www.linkedin.com/in/willian-ks/)
 
 ## ⚡ Minhas stacks
 
