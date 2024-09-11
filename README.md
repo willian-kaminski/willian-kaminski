@@ -1,14 +1,7 @@
-### E aí galera 👋
+### Fala pessoal
 
-Eu sou Willian Kaminski, desenvolvedor Java na [CWI Software](https://cwi.com.br/), 
+Eu sou Willian Kaminski, desenvolvedor Java e TechLead na [CWI Software](https://cwi.com.br/), 
 escrevo alguns artigos no [Medium](https://medium.com/@willian-kaminski).
-
-[![Medium: willian-kaminski](https://img.shields.io/badge/-Medium-black?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@willian-kaminski)](https://medium.com/@willian-kaminski)
-[![Linkedin: willian-kaminski](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/willian-ks/)](https://www.linkedin.com/in/willian-kaminski/)
-
-## ⚡ Minhas stacks
-
-Stacks que trabalhei até hoje:
 
 ![Java](https://img.shields.io/badge/-Java-red?style=flat-square&logo=oracle)
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
@@ -35,3 +28,10 @@ Stacks que trabalhei até hoje:
 ![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=flat-square&logo=intellij-idea&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+##
+
+<div> 
+  <a href="https://medium.com/@willian-kaminski" target="_blank"><img src="https://img.shields.io/badge/-Medium-black?style=for-the-badge&logo=Medium&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/willian-kaminski" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white" target="_blank"></a> 
+</div>
