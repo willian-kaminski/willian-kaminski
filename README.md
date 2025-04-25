@@ -1,6 +1,6 @@
 ### Fala pessoal
 
-Eu sou Willian Kaminski, desenvolvedor Java e TechLead na [CWI Software](https://cwi.com.br/), 
+Eu sou Willian Kaminski, desenvolvedor Java e TechLead na [Banco BV](https://www.bv.com.br/), 
 escrevo alguns artigos no [Medium](https://medium.com/@willian-kaminski).
 
 ![Java](https://img.shields.io/badge/-Java-red?style=flat-square&logo=oracle)
